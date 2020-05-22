@@ -1,3 +1,4 @@
+//work derived from ethereum todolist by dapp university
 App = {
 	loading: false,
 	contracts: {},
